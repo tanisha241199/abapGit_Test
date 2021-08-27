@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZABAP_GIT.
 write: 'test program'.
+write: 'write from git'.
